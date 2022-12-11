@@ -1,0 +1,11 @@
+def get_choices():
+  player_choice= "rock"
+  computer_choice= "paper"
+
+  return coumpter_choice
+
+def greeting():
+  return "bad D"
+
+response= greeting()
+print(response)
